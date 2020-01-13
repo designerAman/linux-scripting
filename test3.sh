@@ -1,4 +1,5 @@
-for((i=1;i<=10;i++)); do
+for((i=1;i<=10;i++)); 
+do
 if (( i == 1 ))
  then
      echo 1 factorial is  1
