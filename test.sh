@@ -21,7 +21,7 @@ path=`pwd`
 #     fi
 # done 
 # }
-
+echo dfjgktrhhgukjh
 function name () {
     for item in *
     do 
